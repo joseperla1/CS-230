@@ -1,6 +1,7 @@
 # CS-230
 
 #Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+
 The Gaming Room wanted to create a web-based game that can be run on multiple platforms s
 
 #What did you do particularly well in developing this documentation?
